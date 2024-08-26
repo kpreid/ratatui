@@ -1,5 +1,5 @@
 //! State like [`ListState`], [`TableState`] and [`ScrollbarState`] can be serialized and
-//! deserialized through serde. This allows saving your entire state to disk when the user exits the
+//! deserialized through [`serde`]. This allows saving your entire state to disk when the user exits
 //! the app, and restore it again upon re-opening the app.
 //! This way, they get right back to where they were, without having to re-seek to their previous
 //! position, if that's applicable for the app at hand.

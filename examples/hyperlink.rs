@@ -1,4 +1,4 @@
-//! # [Ratatui] Hyperlink examplew
+//! # [Ratatui] Hyperlink example
 //!
 //! Shows how to use [OSC 8] to create hyperlinks in the terminal.
 //!
